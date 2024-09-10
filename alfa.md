@@ -1,0 +1,3055 @@
+1
+orjinautomotive.com
+ALFAROMEO
+2
+1 00304
+      ALFA ROMEO 
+ALFA 75 (162B)  05/1985-12/1992
+ALFA 90 (162)    10/1984-07/1987
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI097
+00304
+Tie rod end
+116002404100 116002404101
+M10x1,25-
+Female-
+M14x1,5-72 mm
+2
+AR019
+00023
+Axial joint
+60521693
+117022300200 M14x1,5-M14x1,5
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+3
+AR020
+00024
+Axial joint
+116002404004
+1935725000
+-
+4
+AR016
+00020
+Ball joint
+116002101900 116002101908
+Lower
+5
+AR018
+00022
+Ball joint
+116002104212 116462109800
+Upper
+     
+4 00020
+4 00020
+3 00024
+3 00024
+5 00022
+5 00022
+1 00304
+1 00304
+1 00304
+2 00023
+EXC. V6, TD
+2 00023
+EXC. V6, TD
+3
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – 
+Number
+OE – Number
+FEATURES
+1
+FI036
+00251
+Stabilizer link
+60570627
+116002404101 M10x1,25-99 mm
+2
+AR026
+00027
+Tie rod end
+9947720
+-
+-
+3
+-
+00219
+Tie rod end-L
+60565706
+60809612
+M10x1,25-Female-
+M12x1,5-128 mm
+4
+-
+00220
+Tie rod end-R
+60565705
+60809613
+M10x1,25-Female-
+M12x1,5-128 mm
+5
+-
+01584
+Tie rod end-L
+60608979
+-
+M10x1,25-Female-
+M18x1,5-256 mm
+6
+-
+02331
+Tie rod end-R
+60608980
+-
+M10x1,25-Female-
+M18x1,5-256 mm
+7
+-
+01612
+Tie rod end-L
+9947765
+-
+-
+8
+-
+01611
+Tie rod end-R
+9947764
+-
+-
+Ref
+Old
+code
+CODE
+Description
+OE – 
+Number
+OE – Number
+FEATURES
+9
+AR021
+00025
+Axial joint
+9944452
+9950452
+M12x1,5-M14x1,5
+10
+-
+01625
+Axial joint
+9947718
+9950786
+M14x1,5-M14x1,5
+11
+FI104-L
+00309
+Control arm 
+complete-L
+46744556
+93501144
+Ø17-326,5
+12
+FI104-R
+00310
+Control arm 
+complete-R
+46474557
+60813044
+Ø17-326,5 mm
+13
+FI028-L
+00238
+Bushing-L
+7601065
+-
+-
+14
+FI028-R
+00239
+Bushing-R
+7601068
+-
+-
+15
+FI034-L
+00249
+Bushing-L
+46744556 
+Part of
+-
+-
+16
+FI034-R
+00250
+Bushing-R
+46474557 
+Part of
+-
+-
+ 
+      ALFA ROMEO 
+145 (130) (07/1994-01/1996)
+146 (134) (07/1994-01/1996)
+12 00310
+7 01612
+11 00309
+1 00251
+1 00251
+2 00027
+2 00027
+3 00219
+4 00220
+9 00025
+9 00025
+10 01625
+10 01625
+10 01625
+10 01625
+2.0 TWIN SPARK  
+05/1995 ->
+2.0 TWIN SPARK  
+05/1995 ->
+TD
+TD
+5 01584
+1.3 - 1.6 - 1.7 8V 16V BOXER
+6 02331
+1.3 - 1.6 - 1.7 8V 16V BOXER
+2.0 TWIN SPARK  
+03/1995 - 05/1995
+8 01611
+2.0 TWIN SPARK  
+03/1995 - 05/1995
+TD
+TD
+2.0 TWIN SPARK
+2.0 TWIN SPARK
+2.0 TWIN SPARK
+2.0 TWIN SPARK
+16 00250
+15 00249
+13 00238
+14 00239
+4
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI036
+00251
+Stabilizer link
+60570627
+116002404101
+M10x1,25-99 
+mm
+2
+AR026
+00027
+Tie rod end
+9947720
+-
+-
+3
+FI006
+00223
+Tie rod end
+98845030
+-
+M10x1,25-
+Female-
+M14x1,5-107 
+mm
+4
+FI003-L
+00219
+Tie rod end-L
+9947437
+60809612
+M10x1,25-
+Female-
+M12x1,5-128 
+mm
+5
+FI003-R
+00220
+Tie rod end-R
+9947438
+60809613
+M10x1,25-
+Female-
+M12x1,5-128 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+6
+AR021
+00025
+Axial joint
+9944452
+9950452
+M12x1,5-M14x1,5
+7
+-
+01625
+Axial joint
+9947718
+9950786
+M14x1,5-M14x1,5
+8
+FI104-L
+00309
+Control arm 
+complete-L
+46744556
+93501144
+Ø17-326,5
+9
+FI104-R
+00310
+Control arm 
+complete-R
+46474557
+60813044
+Ø17-326,5 mm
+10
+FI028-L
+00238
+Bushing-L
+7601065
+-
+-
+11
+FI028-R
+00239
+Bushing-R
+7601068
+-
+-
+12
+FI034-L
+00249
+Bushing-L
+46744556 
+Part of 
+-
+-
+13
+FI034-R
+00250
+Bushing-R
+46474557 
+Part of 
+-
+-
+ 
+      ALFA ROMEO 
+145 (130) (01/199701/2001)
+146 (134) (01/199701/2001)
+7 01625
+7 01625
+7 01625
+7 01625
+3 00223
+3 00223
+9 00310
+8 00309
+1 00251
+1 00251
+2 00027
+2.0 TWIN SPARK  
+05/1995 ->
+2 00027
+2.0 TWIN SPARK  
+05/1995 ->
+4 00219
+5 00220
+6 00025
+6 00025
+13 00250
+12 00249
+10 00238
+11 00239
+5
+orjinautomotive.com
+8 00028
+2 00002
+      ALFA ROMEO
+147 (937) (01/2001-03/2010) 
+10 02374
+12 05726
+16 05728
+16 05728
+6 05719
+14 05720
+15 05721
+15 05721
+3 00006
+4 00007
+11 02375
+13 05727
+17 05729
+17 05729
+1 00001
+1 00001
+9 00029
+2 00002
+7 00008
+7 00008
+20 05723
+18 05722
+19 05724
+21 05725
+5 05718
+03/2007 ->
+03/2007 ->
+6
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+AR001
+00001
+Stabilizer link
+46843389
+116002404101
+M10x1,5-122,5 
+mm
+2
+AR002
+00002
+Stabilizer link 
+60613575
+-
+Rear-
+M10x1,25-180 
+mm
+3
+AR005-L
+00006
+Tie rod end-L
+9947919
+-
+M10x1.25-
+M14X1.5-77 mm
+4
+AR005-R
+00007
+Tie rod end-R
+9947920
+-
+M10x1.25-
+M14X1.5-77 mm
+5
+-
+05718
+Tie rod end-L
+77364521
+-
+-
+6
+-
+05719
+Tie rod end-R
+77364522
+-
+-
+7
+AR006
+00008
+Axial joint
+9947923
+-
+M14x1,5-M16x1,5
+8
+AR027-L
+00028
+Control arm 
+complete-L
+60652465
+60686891
+M14x1.5-251 
+mm
+9
+AR027-R
+00029
+Control arm 
+complete-R
+60652466
+60686892
+M14x1.5-251 
+mm
+10
+-
+02374
+Control arm 
+complete-L
+60651939
+60657245
+UPPER-
+M10x1.25-147 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+11
+-
+02375
+Control arm 
+complete-R
+60651940
+60657246
+UPPER-
+M10x1.25-147 
+mm
+12
+-
+05726
+Track rod-L
+51777717
+60651935
+-
+13
+-
+05727
+Track rod-R
+51777718
+60651934
+-
+14
+-
+05720
+Bushing
+60666021 
+Part of
+-
+-
+15
+-
+05721
+Bushing
+60686892 
+Part of
+-
+Lower
+16
+-
+05728
+Bushing
+60651935 
+Part of
+-
+-
+17
+-
+05729
+Bushing
+46402825
+60682636
+-
+18
+-
+05722
+Bushing-L
+60686891 
+Part of
+-
+Lower
+19
+-
+05724
+Bushing-L
+60686891 
+Part of
+-
+Lower
+20
+-
+05723
+Bushing-R
+60686892 
+Part of
+-
+Lower
+21
+-
+05725
+Bushing-R
+60686892 
+Part of
+-
+Lower
+ 
+      ALFA ROMEO
+147 (937) (01/2001-03/2010) 
+7
+orjinautomotive.com
+11 00310
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI036
+00251
+Stabilizer link
+60570627
+116002404101
+M10x1,25-99 
+mm
+2
+FI006
+00223
+Tie rod end
+98845030
+-
+M10x1,25-
+Female-
+M14x1,5-107 
+mm
+3
+FI003-L
+00219
+Tie rod end-L
+9947437
+60809612
+M10x1,25-
+Female-
+M12x1,5-128 
+mm
+4
+FI003-R
+00220
+Tie rod end-R
+9947438
+60809613
+M10x1,25-
+Female-
+M12x1,5-128 
+mm
+5
+-
+01612
+Tie rod end-L
+9947765
+-
+-
+6
+-
+01611
+Tie rod end-R
+9947764
+-
+-
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+7
+AR021
+00025
+Axial joint
+9944452
+9950452
+M12x1,5-M14x1,5
+8
+-
+01566
+Axial joint
+9939557
+9947361
+M12x1,5-M14x1,5
+9
+-
+01625
+Axial joint
+9947718
+9950786
+M14x1,5-
+M14x1,5-292 
+mm
+10
+FI104-L
+00309
+Control arm 
+complete-L
+46744556
+93501144
+Ø17-326,5
+11
+FI104-R
+00310
+Control arm 
+complete-R
+46474557
+60813044
+Ø17-326,5 mm
+12
+FI028-L
+00238
+Bushing-L
+7601065
+-
+-
+13
+FI028-R
+00239
+Bushing-R
+7601068
+-
+-
+14
+FI034-L
+00249
+Bushing-L
+46744556 
+Part of
+-
+-
+15
+FI034-R
+00250
+Bushing-R
+46474557 
+Part of
+-
+-
+ 
+      ALFA ROMEO
+155 (167) (01/1992-12/1997) 
+8 01566
+8 01566
+12 00238
+10 00309
+14 00249
+15 00250
+1 00251
+1 00251
+13 00239
+2 00223
+05/1995 ->
+2 00223
+05/1995 ->
+3 00219
+_> 03/1995
+4 00220
+_> 03/1995
+5 01612
+_> 05/1995
+6 01611
+_> 05/1995
+7 00025
+_> 03/1995
+7 00025
+_> 03/1995
+9 01625
+03/1995 ->
+9 01625
+03/1995 ->
+8
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+AR001
+00001
+Stabilizer link
+46843389
+116002404101
+M10x1,5-122,5 
+mm
+2
+AR002
+00002
+Stabilizer link 
+60613575
+-
+Rear-
+M10x1,25-180 
+mm
+3
+AR005-L
+00006
+Tie rod end-L
+9947919
+-
+M10x1.25-
+M14X1.5-77 mm
+4
+AR005-R
+00007
+Tie rod end-R
+9947920
+-
+M10x1.25-
+M14X1.5-77 mm
+5
+AR006
+00008
+Axial joint
+9947923
+-
+M14x1,5-M16x1,5
+6
+AR027-L
+00028
+Control arm 
+complete-L
+60652465
+60686891
+M14x1.5-251 
+mm
+7
+AR027-R
+00029
+Control arm 
+complete-R
+60652466
+60686892
+M14x1.5-251 
+mm
+8
+-
+02374
+Control arm 
+complete-L
+60651939
+60657245
+UPPER-
+M10x1.25-147 
+mm
+9
+-
+02375
+Control arm 
+complete-R
+60651940
+60657246
+UPPER-
+M10x1.25-147 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+10
+-
+05726
+Track rod-L
+51777717
+60651935
+-
+11
+-
+05727
+Track rod-R
+51777718
+60651934
+-
+12
+-
+05720
+Bushing
+60666021 
+Part of 
+-
+-
+13
+-
+05721
+Bushing
+60686892 
+Part of 
+-
+Lower
+14
+-
+05722
+Bushing-L
+60686891 
+Part of 
+-
+Lower
+15
+-
+05723
+Bushing-R
+60686892 
+Part of 
+-
+Lower
+16
+-
+05724
+Bushing-L
+60686891 
+Part of 
+-
+Lower
+17
+-
+05725
+Bushing-R
+60686892 
+Part of 
+-
+Lower
+18
+-
+05728
+Bushing
+60651935 
+Part of 
+-
+-
+19
+-
+05729
+Bushing
+46402825
+60682636
+-
+ 
+      ALFA ROMEO 
+156 (932) (09/1997-05/2006)
+6 00028
+2 00002
+4 00007
+15 05723
+8 02374
+14 05722
+12 05726
+18 05728
+18 05728
+12 05720
+13 05721
+13 05721
+3 00006
+9 02375
+16 05724
+13 05727
+19 05729
+19 05729
+1 00001
+1 00001
+7 00029
+17 05725
+2 00002
+5 00008
+5 00008
+9
+orjinautomotive.com
+      ALFA ROMEO 
+159 (939) (09/2005-11/2011)
+8 05746
+8 05746
+14 02149
+14 02149
+4 02544
+16 05751
+16 05751
+2 02542
+10 02461
+6 02546
+12 05748
+11 05747
+7 02176
+7 02176
+13 05750
+13 05750
+3 02543
+1 02541
+9 02460
+15 02150
+15 02150
+5 02545
+12 02463
+20 02152
+21 02153
+18 05749
+11 02462
+22 02151
+22 02151
+10
+      ALFA ROMEO 
+159 (939) (09/2005-11/2011)
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+-
+02541
+Stabilizer link-L
+50704361
+116002404101
+M12x1,75-102 
+mm
+2
+-
+02542
+Stabilizer link-R
+50704362
+51795455
+M12x1,75-102 
+mm
+3
+-
+02543
+Stabilizer link-L
+50704680
+51795705
+Rear-
+M12x1,75-116 
+mm
+4
+-
+02544
+Stabilizer link-R
+50704681
+51795706
+Rear-
+M12x1,75-116 
+mm
+5
+-
+02545
+Tie rod end-L
+77363706
+77363706
+-
+6
+-
+02546
+Tie rod end-R
+77363707
+-
+-
+7
+-
+02176
+Axial joint
+77363705 
+Part of
+-
+M20x1,5-
+M16x1,5-213,5 
+mm
+8
+-
+05746
+Axial joint
+77364750 
+Part of
+-
+-
+9
+-
+02460
+Upper Control 
+arm complete-L
+51787337
+71746512
+M10x1.25-194,8 
+mm 
+10
+-
+02461
+Upper control 
+arm complete-R
+51787336
+71746513
+M10x1.25-194,8 
+mm 
+11
+-
+02462
+Control arm 
+complete-L
+50704306
+71749327
+M14x1.5-341,5 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+12
+-
+02463
+Control arm 
+complete-R
+50704307
+71749328
+M14x1.5-341,5 
+mm
+13
+-
+05747
+Upper Control 
+arm complete-L
+51817623
+51835397
+-
+14
+-
+05748
+Upper control 
+arm complete-R
+51817624
+51835398
+-
+15
+-
+05750
+Track rod
+50705032
+51795575
+Rear
+16
+-
+02149
+Bushing
+71746513 
+Part of 
+-
+-
+17
+-
+02150
+Bushing
+71746513 
+Part of 
+-
+-
+18
+-
+05749
+Bushing
+51795447 
+Part of
+-
+-
+19
+-
+05751
+Bushing
+51795575 
+Part of
+-
+-
+20
+-
+02152
+Bushing-L
+50704306 
+Part of
+-
+-
+21
+-
+02153
+Bushing-R
+50704307 
+Part of 
+-
+-
+22
+-
+2151
+Bushing
+50704306
+Part of
+50704307
+Part of
+-
+ 
+11
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+-
+01653
+Stabilizer link
+60801409
+116002404101
+Rear
+2
+-
+02174
+Stabilizer link
+60570365
+60801355
+-
+3
+AR008
+00010
+Tie rod end
+60507918
+82460439
+-
+4
+AR009
+00011
+Axial joint
+164002302801
+9945566
+M14x1,5-M14x1,5
+5
+AR013-L
+00014
+Control arm 
+complete-L
+60588843
+82480038
+ø13   
+6
+AR013-R
+00015
+Control arm 
+complete-R
+60588844
+82480039
+ø13   
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+7
+-
+00016
+Control arm 
+complete-L
+60510363
+60588845
+ø15   
+8
+-
+00017
+Control arm 
+complete-R
+60510362
+60588846
+ø15   
+9
+AR010
+00012
+Ball joint
+60510360
+60510360
+ø15   
+10
+AR011
+00013
+Ball joint
+60566661
+82459170
+ø13   
+11
+-
+01684
+Bushing
+60510361
+82480037
+-
+12
+-
+02177
+Bushing
+82427260
+82427260
+-
+ 
+      ALFA ROMEO 
+164 (164) (01/1987-01/1992)
+164 (168) (01/1992-01/1998)
+4 00011
+4 00011
+3 00010
+3 00010
+1 01653
+1 01653
+2 02174
+CHAS 62569029
+2 02174
+CHAS 62569029
+5 00014
+2.0TS - 2.5TD -> 01/1992
+6 00015
+2.0TS - 2.5TD -> 01/1992
+9 00012
+9 00012
+7 00016
+2.0TS - 2.5TD 01/1992 -> / 
+3.0V6 - 2.0V6 ALL EXC. 24V
+8 00017
+2.0TS - 2.5TD 01/1992 -> / 
+3.0V6 - 2.0V6 ALL EXC. 24V
+11 01684
+11 01684
+ALL
+ALL
+12 02177
+ALL
+12 02177
+ALL
+10 00013
+10 00013
+12
+10 02457
+9 02456
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+AR003
+00003
+Stabilizer link
+60630757
+116002404101
+M10x1,5-145 
+mm 
+2
+AR004-L
+00004
+Stabilizer link-L 
+60628284
+-
+Rear-M10x1,5-95 
+mm 
+3
+AR004-R
+00005
+Stabilizer link-R 
+60628255
+-
+Rear-M10x1,5-95 
+mm 
+4
+-
+01659
+Stabilizer link-L
+60628294
+-
+Rear
+5
+-
+01657
+Stabilizer link-R 
+60628295
+-
+Rear
+6
+AR005-L
+00006
+Tie rod end-L
+9947919
+-
+M10x1.25-
+M14X1.5-77 mm
+7
+AR005-R
+00007
+Tie rod end-R
+9947920
+-
+M10x1.25-
+M14X1.5-77 mm
+8
+AR007
+00009
+Axial joint
+9948297
+9948905
+M14x1,5-M16x1,5
+9
+-
+02456
+Control arm 
+complete-L
+60627290
+60695895
+M14x1,5-333 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+10
+-
+02457
+Control arm 
+complete-R
+60627291
+60695896
+M14x1,5-333 
+mm
+11
+-
+02458
+Track Control 
+arm-L
+60666021
+-
+M10x1.25-165 
+mm 
+12
+-
+02459
+Track Control 
+arm-R
+60666020
+-
+M10x1.25-165 
+mm 
+13
+-
+03682
+Bushing
+2013520027
+-
+-
+14
+-
+05740
+Bushing
+60666021 
+Part of 
+-
+-
+15
+-
+05743
+Bushing
+60695896 
+Part of 
+-
+Rear
+16
+-
+05744
+Bushing
+60695896 
+Part of 
+-
+Rear
+17
+-
+05745
+Bushing
+60695896 
+Part of 
+-
+Rear
+ 
+ALFA ROMEO 
+166 (936) (01/1998-06/2007)
+8 00009
+8 00009
+16 05744
+4 01659
+2 00004
+14 05740
+15 05743
+15 05743
+3 00005
+1 00003
+1 00003
+17 05745
+5 01657
+6 00006
+7 00007
+11 02458
+UPPER
+12 02459
+UPPER
+13 03682
+ø14
+13 03682
+ø14
+13
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI097
+00304
+Tie rod end
+116002404100 116002404101
+M10x1,25-
+Female-
+M14x1,5-72 mm
+2
+AR019
+00023
+Axial joint
+60521693
+117022300200 M14x1,5-M14x1,5
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+3
+AR020
+00024
+Axial joint
+116002404004
+1935725000
+-
+4
+AR016
+00020
+Ball joint
+116002101900 116002101908
+Lower
+5
+AR018
+00022
+Ball joint
+116002104212 116462109800
+Upper
+ 
+      ALFA ROMEO
+ ALFETTA (116)        07/1974-12/1984
+ALFETTA GT (116)  01/1974-01/1986
+GIULIETTA (116)     10/1977-12/1985
+4 00020
+4 00020
+3 00024
+3 00024
+1 00304
+1 00304
+5 00022
+5 00022
+2 00023
+EXC. V6, TD
+2 00023
+EXC. V6, TD
+14
+      ALFA ROMEO
+BRERA (01/2006-10/2010)
+8 05746
+8 05746
+16 02149
+16 02149
+4 02544
+20 05751
+20 05751
+2 02542
+10 02461
+6 02546
+7 02176
+7 02176
+15 05750
+15 05750
+3 02543
+1 02541
+9 02460
+17 02150
+17 02150
+5 02545
+12 02463
+18 02151
+18 02151
+14 05748
+11 02462
+19 05749
+13 05747
+21 02152
+22 02153
+15
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+-
+02541
+Stabilizer link-L
+50704361
+116002404101
+M12x1,75-102 
+mm
+2
+-
+02542
+Stabilizer link-R
+50704362
+51795455
+M12x1,75-102 
+mm
+3
+-
+02543
+Stabilizer link-L
+50704680
+51795705
+Rear-
+M12x1,75-116 
+mm
+4
+-
+02544
+Stabilizer link-R
+50704681
+51795706
+Rear-
+M12x1,75-116 
+mm
+5
+-
+02545
+Tie rod end-L
+77363706
+-
+-
+6
+-
+02546
+Tie rod end-R
+77363707
+-
+-
+7
+-
+02176
+Axial joint
+50505978 
+Part of
+77363705 
+Part of
+M20x1,5-
+M16x1,5-213,5 
+mm
+8
+-
+05746
+Axial joint
+50501441 
+Part of
+77364750 
+Part of
+-
+9
+-
+02460
+Upper Control 
+arm complete-L
+51787337
+71746512
+M10x1.25-194,8 
+mm 
+10
+-
+02461
+Upper control 
+arm complete-R
+51787336
+71746513
+M10x1.25-194,8 
+mm 
+11
+-
+02462
+Control arm 
+complete-L
+50704306
+71749327
+M14x1.5-341,5 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+12
+-
+02463
+Control arm 
+complete-R
+50704307
+71749328
+M14x1.5-341,5 
+mm
+13
+-
+05747
+Upper Control 
+arm complete-L
+51817623
+51835397
+-
+14
+-
+05748
+Upper control 
+arm complete-R
+51817624
+51835398
+-
+15
+-
+05750
+Track rod
+50705032
+51795575
+Rear
+16
+-
+02149
+Bushing
+50704948 
+Part of
+-
+17
+-
+02150
+Bushing
+50704948 
+Part of
+-
+18
+-
+02151
+Bushing
+50704307 
+Part of
+-
+19
+-
+05749
+Bushing
+51795446 
+Part of
+-
+20
+-
+05751
+Bushing
+50705032 
+Part of
+-
+21
+-
+02152
+Bushing-L
+50704307 
+Part of
+-
+22
+-
+02153
+Bushing-R
+50704307 
+Part of
+-
+ 
+      ALFA ROMEO
+BRERA (01/2006-10/2010)
+16
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI095
+00302
+Stabilizer link
+50515276
+116002404101
+M10x1,5-301 
+mm 
+2
+-
+03376
+Stabilizer link-L
+50515274
+-
+Rear
+3
+-
+03377
+Stabilizer link-R
+50515275
+-
+Rear
+4
+-
+05730
+Tie rod end-L
+50520352
+-
+-
+5
+-
+05731
+Tie rod end-R
+50520353
+-
+-
+6
+-
+05732
+Axial joint
+50518204  
+Part of
+50522908 
+Part of 
+-
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+7
+-
+05733
+Control arm 
+complete-L
+50513444
+-
+-
+8
+-
+05734
+Control arm 
+complete-R
+50513442
+-
+-
+9
+-
+05737
+Ball joint
+50513442 
+Part of
+50513444  
+Part of 
+Lower
+10
+-
+05634
+Bushing
+50521045 
+Part of
+50521046 
+Part of 
+-
+11
+-
+05736
+Bushing
+50513442 
+Part of
+50513444  
+Part of 
+-
+  
+      ALFA ROMEO
+GIULIETTA (940) (04/2010-->)
+2 03376
+3 03377
+1 00302
+1 00302
+7 05733
+8 05734
+9 05737
+9 05737
+10 05634
+11 05736
+6 05732
+6 05732
+4 05730
+5 05731
+17
+orjinautomotive.com
+8 00028
+11 02375
+9 00029
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – 
+Number
+FEATURES
+1
+AR001
+00001
+Stabilizer link
+46843389
+116002404101
+M10x1,5-122,5 
+mm
+2
+AR002
+00002
+Stabilizer link 
+60613575
+-
+Rear-
+M10x1,25-180 
+mm
+3
+AR005-L
+00006
+Tie rod end-L
+9947919
+-
+M10x1.25-
+M14X1.5-77 mm
+4
+AR005-R
+00007
+Tie rod end-R
+9947920
+-
+M10x1.25-
+M14X1.5-77 mm
+5
+-
+05718
+Tie rod end-L
+77364521
+-
+-
+6
+-
+05719
+Tie rod end-R
+77364522
+-
+-
+7
+AR006
+00008
+Axial joint
+9947923
+-
+M14x1,5-M16x1,5
+8
+AR027-L
+00028
+Control arm 
+complete-L
+60652465
+60686891
+M14x1.5-251 
+mm
+9
+AR027-R
+00029
+Control arm 
+complete-R
+60652466
+60686892
+M14x1.5-251 
+mm
+10
+-
+02374
+Control arm 
+complete-L
+60651939
+60657245
+UPPER-
+M10x1.25-147 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – 
+Number
+FEATURES
+11
+-
+02375
+Control arm 
+complete-R
+60651940
+60657246
+UPPER-
+M10x1.25-147 
+mm
+12
+-
+05726
+Track rod-L
+51777717
+60651935
+-
+13
+-
+05727
+Track rod-R
+51777718
+60651934
+-
+14
+-
+05720
+Bushing
+51776326 
+Part of
+60666021 
+Part of 
+-
+15
+-
+05721
+Bushing
+60686891 
+Part of
+60686892 
+Part of 
+Lower
+16
+-
+05728
+Bushing
+51777717 
+Part of
+60651935 
+Part of 
+-
+17
+-
+05729
+Bushing
+46402825
+60682636
+-
+18
+-
+05722
+Bushing-L
+60686891 
+Part of
+60686891 
+Part of 
+Lower
+19
+-
+05724
+Bushing-L
+60686891 
+Part of
+60686891 
+Part of 
+Lower
+20
+-
+05723
+Bushing-R
+60686892 
+Part of
+60686892 
+Part of 
+Lower
+21
+-
+05725
+Bushing-R
+60686892 
+Part of
+60686892 
+Part of 
+Lower
+  
+      ALFA ROMEO 
+GT (937) (11/2003-09/2010)
+10 02374
+14 05720
+15 05721
+15 05721
+16 05728
+16 05728
+12 05726
+13 05727
+17 05729
+17 05729
+3 00006
+1 00001
+1 00001
+2 00002
+2 00002
+4 00007
+7 00008
+7 00008
+5 05718
+03/2007 ->
+6 05719
+03/2007 ->
+20 05723
+18 05722
+19 05724
+21 05725
+18
+9 00220
+8 00219
+_> 03/1995
+Ref
+Old
+code
+CODE
+Description
+OE – 
+Number
+OE – Number
+FEATURES
+1
+AR030
+00030
+Stabilizer link
+60614514
+116002404101 M10x1,5-272 mm 
+2
+FI036
+00251
+Stabilizer link
+60570627
+60809242
+M10x1,25-99 mm
+3
+-
+01653
+Stabilizer link
+60801409
+60801409VVD
+Rear
+4
+AR015-L
+00018
+Stabilizer link-L
+60612436
+-
+Rear-M10x1,5-90 
+mm 
+5
+AR015-R
+00019
+Stabilizer link-R
+60612435
+-
+Rear-M10x1,5-90 
+mm 
+6
+AR026
+00027
+Tie rod end
+9947720
+-
+-
+7
+FI006
+00223
+Tie rod end
+98845030
+-
+M10x1,25-Female-
+M14x1,5-107 mm
+8
+-
+00219
+Tie rod end-L
+60565706
+60809612
+M10x1,25-Female-
+M12x1,5-128 mm
+9
+-
+00220
+Tie rod end-R
+60565705
+60809613
+M10x1,25-Female-
+M12x1,5-128 mm
+10
+-
+01612
+Tie rod end-L
+9947765
+-
+-
+11
+-
+01611
+Tie rod end-R
+9947764
+-
+-
+Ref
+Old
+code
+CODE
+Description
+OE – 
+Number
+OE – Number
+FEATURES
+12
+AR021
+00025
+Axial joint
+9944452
+9950452
+M12x1,5-M14x1,5
+13
+-
+01625
+Axial joint
+9947718
+9950786
+M14x1,5-M14x1,5
+14
+FI104-L
+00309
+Control arm 
+complete-L
+46744556
+93501144
+Ø17-326,5
+15
+FI104-R
+00310
+Control arm 
+complete-R
+46474557
+60813044
+Ø17-326,5 mm
+16
+-
+02175
+Ball joint
+60612294
+96311263 
+Part of
+Lower
+17
+-
+05575
+Track rod
+60616341
+60627480
+-
+18
+FI028-L
+00238
+Bushing-L
+7601065
+-
+-
+19
+FI028-R
+00239
+Bushing-R
+7601068
+-
+-
+20
+FI034-L
+00249
+Bushing-L
+46744556 
+Part of
+-
+-
+21 
+FI034-R
+00250
+Bushing-R
+46474557 
+Part of
+-
+-
+  
+16 02175
+16 02175
+4 00018
+3 01653
+3 01653
+17 05575
+17 05575
+5 00019
+ALFA ROMEO
+GTV (916C_) (09/1994-01/2006)
+2 00251
+2 00251
+1 00030
+V6
+1 00030
+V6
+6 00027
+2.0 V6 TURBO - 3.0 V6
+7 00223
+7 00223
+_> 03/1995
+10 01612
+2.0 TS 03/1995-05/1995
+11 01611
+2.0 TS 03/1995-05/1995
+12 00025
+_> 03/1995
+12 00025
+_> 03/1995
+6 00027
+2.0 V6 TURBO - 3.0 V6
+13 01625
+13 01625
+20 00249
+14 00309
+15 00310
+21 00250
+18 00238
+19 00239
+19
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI095
+00302
+Stabilizer link
+50515276
+116002404101
+M10x1,5-301 
+mm 
+2
+FI093-L
+00299
+Tie rod end-L
+77363829
+1610937180
+M10x1,5-Female-
+M14x1,5-112,5 
+mm 
+3
+FI093-R
+00300
+Tie rod end-R
+77363830
+1610937280
+M10x1,5-Female-
+M14x1,5-112,5 
+mm 
+4
+FI094
+00301
+Axial joint
+1603543
+95514914
+M14x1,5-M14x1,5
+5
+-
+02810
+Control arm 
+complete-L
+55703629
+-
+Ø16-338 mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+6
+-
+02811
+Control arm 
+complete-R
+50511650
+-
+Ø16-338 mm
+7
+-
+02812
+Control arm 
+w/o ball joint-L
+-
+-
+-
+8
+02813
+Control arm 
+w/o ball joint-R
+-
+-
+-
+9
+FI090
+00297
+Ball joint
+51783056 
+Part of
+51783057 
+Part of 
+Lower-Ø16
+10
+FI088
+00295
+Bushing
+352380
+95514537 
+Part of 
+Small
+11
+FI089
+00296
+Bushing
+55700751
+55703629 
+Part of 
+Big
+ 
+ALFA ROMEO
+ MITO (955) (09/2008-->)
+4 00301
+4 00301
+2 00299
+6 02811
+3 00300
+11 00296
+1 00302
+1 00302
+5 02810
+9 00297
+9 00297
+10 00295
+20
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+FI097
+00304
+Tie rod end
+116002404100 116002404101
+M10x1,25-
+Female-
+M14x1,5-72 mm
+2
+AR019
+00023
+Axial joint
+60521693
+117022300200 M14x1,5-M14x1,5
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+3
+AR016
+00020
+Ball joint
+116002101900 116002101908
+Lower
+4
+AR018
+00022
+Ball joint
+116002104212 116462109800
+Upper
+  
+      ALFA ROMEO
+RZ 01/1992-12/1994
+SZ 09/1988-08/1994
+4 00022
+4 00022
+3 00020
+3 00020
+1 00304
+1 00304
+2 00023
+2 00023
+21
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – 
+Number
+OE – Number
+FEATURES
+1
+AR030
+00030
+Stabilizer link
+60614514
+116002404101 M10x1,5-272 mm 
+2
+FI036
+00251
+Stabilizer link
+60570627
+60809242
+M10x1,25-99 mm
+3
+-
+01653
+Stabilizer link
+60801409
+60801409VVD
+Rear
+4
+AR015-L
+00018
+Stabilizer link-L
+60612436
+-
+Rear-M10x1,5-90 
+mm 
+5
+AR015-R
+00019
+Stabilizer link-R
+60612435
+-
+Rear-M10x1,5-90 
+mm 
+6
+AR026
+00027
+Tie rod end
+9947720
+-
+-
+7
+FI006
+00223
+Tie rod end
+98845030
+-
+M10x1,25-Female-
+M14x1,5-107 mm
+8
+-
+00219
+Tie rod end-L
+60565706
+60809612
+M10x1,25-Female-
+M12x1,5-128 mm
+9
+-
+00220
+Tie rod end-R
+60565705
+60809613
+M10x1,25-Female-
+M12x1,5-128 mm
+10
+-
+01612
+Tie rod end-L
+9947765
+-
+-
+11
+-
+01611
+Tie rod end-R
+9947764
+-
+-
+Ref
+Old
+code
+CODE
+Description
+OE – 
+Number
+OE – Number
+FEATURES
+12
+AR021
+00025
+Axial joint
+9944452
+9950452
+M12x1,5-M14x1,5
+13
+-
+01625
+Axial joint
+9947718
+9950786
+M14x1,5-M14x1,5
+14
+FI104-L
+00309
+Control arm 
+complete-L
+46744556
+93501144
+Ø17-326,5
+15
+FI104-R
+00310
+Control arm 
+complete-R
+46474557
+60813044
+Ø17-326,5 mm
+16
+-
+02175
+Ball joint
+60612294
+96311263 
+Part of
+Lower
+17
+-
+05575
+Track rod
+60616341
+60627480
+-
+18
+FI028-L
+00238
+Bushing-L
+7601065
+-
+-
+19
+FI028-R
+00239
+Bushing-R
+7601068
+-
+-
+20
+FI034-L
+00249
+Bushing-L
+46744556 
+Part of
+-
+-
+21
+FI034-R
+00250
+Bushing-R
+46474557 
+Part of
+-
+-
+    
+      ALFA ROMEO
+SPIDER (916S_) (09/1994-01/2006)
+3 01653
+4 00018
+12 00025
+12 00025
+20 00249
+14 00309
+7 00223
+7 00223
+15 00310
+3 01653
+1 00030
+1 00030
+17 05575
+17 05575
+5 00019
+21 00250
+2 00251
+2 00251
+18 00238
+19 00239
+13 01625
+13 01625
+13 01625
+13 01625
+13 01625
+13 01625
+16 02175
+16 02175
+6 00027
+6 00027
+8 00219  
+9 00220
+10 01612
+11 01611
+22
+      ALFA ROMEO
+  SPIDER (939) (09/2006-10/2010)
+8 05746
+8 05746
+16 02149
+16 02149
+4 02544
+20 05751
+20 05751
+2 02542
+10 02461
+6 02546
+7 02176
+7 02176
+15 05750
+15 05750
+3 02543
+1 02541
+9 02460
+19 05749
+17 02150
+17 02150
+5 02545
+12 02463
+18 02151
+18 02151
+14 05748
+11 02462
+19 05749
+13 05747
+21 02152
+22 02153
+23
+orjinautomotive.com
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+1
+-
+02541
+Stabilizer link-L
+50704361
+116002404101
+M12x1,75-102 
+mm
+2
+-
+02542
+Stabilizer link-R
+50704362
+51795455
+M12x1,75-102 
+mm
+3
+-
+02543
+Stabilizer link-L
+50704680
+51795705
+Rear-
+M12x1,75-116 
+mm
+4
+-
+02544
+Stabilizer link-R
+50704681
+51795706
+Rear-
+M12x1,75-116 
+mm
+5
+-
+02545
+Tie rod end-L
+77363706
+-
+-
+6
+-
+02546
+Tie rod end-R
+77363707
+-
+-
+7
+-
+02176
+Axial joint
+50505978 
+Part of
+77363705 
+Part of
+M20x1,5-
+M16x1,5-213,5 
+mm
+8
+-
+05746
+Axial joint
+50501441 
+Part of
+77364750 
+Part of
+-
+9
+-
+02460
+Upper Control 
+arm complete-L
+51787337
+71746512
+M10x1.25-194,8 
+mm 
+10
+-
+02461
+Upper control 
+arm complete-R
+51787336
+71746513
+M10x1.25-194,8 
+mm 
+11
+-
+02462
+Control arm 
+complete-L
+50704306
+71749327
+M14x1.5-341,5 
+mm
+Ref
+Old
+code
+CODE
+Description
+OE – Number
+OE – Number
+FEATURES
+12
+-
+02463
+Control arm 
+complete-R
+50704307
+71749328
+M14x1.5-341,5 
+mm
+13
+-
+05747
+Upper Control 
+arm complete-L
+51817623
+51835397
+-
+14
+-
+05748
+Upper control 
+arm complete-R
+51817624
+51835398
+-
+15
+-
+05750
+Track rod
+50705032
+51795575
+Rear
+16
+-
+02149
+Bushing
+50704948 
+Part of
+71746513 
+Part of 
+-
+17
+-
+02150
+Bushing
+50704948 
+Part of
+71746513 
+Part of 
+-
+18
+-
+02151
+Bushing
+50704307 
+Part of
+50704307 
+Part of 
+-
+19
+-
+05749
+Bushing
+51795446 
+Part of
+51795447 
+Part of
+-
+20
+-
+05751
+Bushing
+50705032 
+Part of
+51795575 
+Part of
+-
+21
+-
+02152
+Bushing-L
+50704307 
+Part of
+50704306 
+Part of
+-
+22
+-
+02153
+Bushing-R
+50704307 
+Part of
+50704307 
+Part of 
+-
+     
+      ALFA ROMEO
+  SPIDER (939) (09/2006-10/2010)
